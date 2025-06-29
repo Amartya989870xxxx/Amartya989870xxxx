@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Amartya989870xxxx
+- 👋 Hi, I’m Amartya Majumder
 - 👀 I’m interested in building innovative projects who can solve real world problem solving
 - 🌱 I’m currently learning JavaScript, C++, C# ,AI Integration
 - 💞️ I’m looking to collaborate on various hackathons 
