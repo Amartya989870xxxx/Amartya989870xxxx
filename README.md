@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Amartya Majumder
 - 👀 I’m interested in building innovative projects who can solve real world problem solving
-- 🌱 I’m currently learning JavaScript, C++, C# ,AI Integration
+- 🌱 I’m currently learning WebDev,Python ,AI Integration
 - 💞️ I’m looking to collaborate on various hackathons 
 - 📫 You can contact me on my email: amartya6969@gmail.com 
 - 😄 Pronouns: He/Him
